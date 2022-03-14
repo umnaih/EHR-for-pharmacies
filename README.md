@@ -8,6 +8,6 @@ c. Show that every relation satisfies at least Boyce-Codd normal form.
 f. write 4 different SQL queries 2joins and 2aggregate operations 
 And I Prepared the documentation for the project
 My project mate responsibilities were
-a. Write necessary CREATE TABLE statements
-b. Write 3 different INSERT INTO statements
-c. write 4 different SQL queries 2 nested queries 2 set operations
+a. Write necessary CREATE TABLE statements.
+b. Write 3 different INSERT INTO statements.
+c. write 4 different SQL queries 2 nested queries 2 set operations.
